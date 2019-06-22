@@ -6,7 +6,7 @@ the Logistic Regression model produced a slightly better score (0.88502592253735
 Logistic Regression model should be used for classifying candidate exoplanets.
 
 
-## Jupyter Notebook: Machine Learning Code
+# Jupyter Notebook: Machine Learning Code
 
 ```python
 import pandas as pd
